@@ -1,0 +1,16 @@
+current directory: /Users/Wendy/Development/code/sinatra-restful-routes-lab-nyc-web-091718/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/Wendy/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20181010-78250-1tzgkt1.rb extconf.rb
+
+current directory: /Users/Wendy/Development/code/sinatra-restful-routes-lab-nyc-web-091718/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/Wendy/Development/code/sinatra-restful-routes-lab-nyc-web-091718/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/Wendy/Development/code/sinatra-restful-routes-lab-nyc-web-091718/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
